@@ -54,7 +54,7 @@ $b->gantiWarna("Hijau");
 $b->tampilWarna();
 ?>
 ```
-<img src="gambar/2.png" width="500"/>
+![1](gambar/1.png)
 
 ### Class Library
 
@@ -125,7 +125,7 @@ echo "</body></html>";
 
 ?>
 ```
-<img src="gambar/1.png" width="500"/>
+![2](gambar/2.png)
 
 ##### Contoh lainnya untuk database connection dan query.
 ```php
